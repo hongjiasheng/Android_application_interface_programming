@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ArrayAdapter</string>
+    <string name="Apple">Apple</string>
+    <string name="Banana">Banana</string>
+    <string name="Orange">Orange</string>
+    <string name="Watermelon">Watermelon</string>
+    <string name="Pear">Pear</string>
+    <string name="Grape">Grape</string>
+    <string name="Pineapple">Pineapple</string>
+    <string name="Strawberry">Strawberry</string>
+    <string name="Cherry">Cherry</string>
+    <string name="Mango">Mango</string>
+</resources>
